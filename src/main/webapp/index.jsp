@@ -10,7 +10,7 @@
 <meta charset="UTF-8" />
 <link rel="profile" href="https://gmpg.org/xfn/11" />
 <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=yes">
-<title>Smile Baby</title>
+<title>SmileBaby</title>
 <style type="text/css" data-type="vc_custom-css">.mkdf-page-header .textwidget a:hover{
     color: #FFF;
 }</style><style type="text/css" data-type="vc_shortcodes-custom-css">.vc_custom_1527690191405{padding-top: 120px !important;padding-bottom: 120px !important;}.vc_custom_1527689446123{padding-top: 80px !important;padding-bottom: 50px !important;}.vc_custom_1526476912315{padding-top: 110px !important;padding-bottom: 110px !important;}.vc_custom_1526477000698{padding-top: 100px !important;padding-bottom: 60px !important;}.vc_custom_1526476994575{padding-bottom: 100px !important;}.vc_custom_1526477088442{padding-top: 95px !important;padding-bottom: 50px !important;}.vc_custom_1526477000698{padding-top: 100px !important;padding-bottom: 60px !important;}.vc_custom_1526477293384{padding-bottom: 75px !important;}.vc_custom_1525355334759{padding-top: 10px !important;padding-right: 10px !important;padding-bottom: 10px !important;}</style>
