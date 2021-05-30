@@ -22,12 +22,6 @@
             <scope>provided</scope>
         </dependency>
         
-        <dependency>
-            <groupId>javax.mail</groupId>
-            <artifactId>javax.mail-api</artifactId>
-            <version>1.6.0</version>
-        </dependency>
-        
         <!-- https://mvnrepository.com/artifact/org.libj/sql -->
         <dependency>
             <groupId>org.libj</groupId>
